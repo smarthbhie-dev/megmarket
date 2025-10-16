@@ -1,0 +1,106 @@
+{
+  "TopCateGories": [
+    {
+      "title": "Mobile",
+      "image": "https://www.pngplay.com/wp-content/uploads/7/Apple-IPhone-Mobile-PNG-HD-Quality.png"
+    },
+    {
+      "title": "Cosmetics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4prMtqICnlCojhAo4puofL6GVLt1ESQphw&s"
+    },
+    {
+      "title": "Electronics",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMnXU2Ae_g3pjhJpZ-A4DMSOdSpfuAdh9PiQ&s"
+    },
+    {
+      "title": "Furniture",
+      "image": "https://www.nicepng.com/png/full/898-8985505_smith-brothers-sofa-furniture.png"
+    },
+    {
+      "title": "Watches",
+      "image": "https://png.pngtree.com/png-clipart/20250104/original/pngtree-smart-watch-png-image_18709852.png"
+    },
+    {
+      "title": "Decor",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/034/630/930/small_2x/elegant-decorative-vases-and-planters-with-succulents-and-other-plants-on-transparent-background-interior-accessories-cut-out-home-decor-front-view-ai-generated-png.png"
+    },
+    {
+      "title": "Accessories",
+      "image": "https://img.freepik.com/free-psd/close-up-golden-ring-isolated_23-2151217872.jpg?semt=ais_hybrid&w=740&q=80"
+    }
+  ],
+  "TopElectronicsBrands": [
+    {
+      "title": "IPHONE",
+      "colorTitle": "#FFFFFF",
+      "colorBgTitle": "#494949",
+      "icon": "https://pixsector.com/cache/56f2646e/avd5cee2ff5ea9da4d328.png",
+      "iconBgColor": "#FFFFFF",
+      "offer": "20% OFF Limited ",
+      "offerColor": "#FFFFFF",
+      "bgColor": "#313131",
+      "productImage": "https://storage.googleapis.com/alpine-inkwell-325917.appspot.com/devices/iphone-15-pro-max.png",
+      "circularBGColor": "#404040"
+    },
+    {
+      "title": "REALME",
+      "colorTitle": "#222222",
+      "colorBgTitle": "#F6DE8D",
+      "icon": "https://cdn.worldvectorlogo.com/logos/realme-realme-logo-1.svg",
+      "iconBgColor": "#FFC915",
+      "offer": "UP to 80% OFF ",
+      "offerColor": "#222222",
+      "bgColor": "#FFF3CC",
+      "productImage": "https://i0.wp.com/androidguys.com/wp-content/uploads/2023/10/realme11proplus.png?fit=1440%2C1440&ssl=1",
+      "circularBGColor": "#F6DE8D"
+    },
+    {
+      "title": "XIAOMI",
+      "colorTitle": "#222222",
+      "colorBgTitle": "#FFD1B0",
+      "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xiaomi-mi-logo-icon.png",
+      "iconBgColor": "#FF6900",
+      "offer": "UP to 80% OFF ",
+      "offerColor": "#222222",
+      "bgColor": "#FFECDF",
+      "productImage": "https://s.alicdn.com/@sc04/kf/H99b5cb9d14fd41a0acac3161a4e8865cr.png_300x300.jpg",
+      "circularBGColor": "#FFD1B0"
+    },
+    {
+      "title": "Samsung",
+      "colorTitle": "#222222",
+      "colorBgTitle": "#ffffff",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg",
+      "iconBgColor": "#ffffff",
+      "offer": "UP to 65% OFF",
+      "offerColor": "#ffffff",
+      "bgColor": "#A1A29F",
+      "productImage": "https://cdn.prod.website-files.com/636a9dd239b40c85b6e0a34f/68a75e008a27b1d5fcb3fe3a_S24_main.png",
+      "circularBGColor": "#C9C48E"
+    },
+    {
+      "title": "Huawei",
+      "colorTitle": "#B22222",
+      "colorBgTitle": "#ffffff",
+      "icon": "https://www.freepnglogos.com/uploads/huawei-logo-png/huawei-logo-transparent-2.png",
+      "iconBgColor": "#ffffff",
+      "offer": "UP to 75% OFF",
+      "offerColor": "#313131",
+      "bgColor": "#D2F0FF",
+      "productImage": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-d-14-2023/img/screen/huawei-matebook-d-14-2023-screen.png",
+      "circularBGColor": "#7A7E87"
+    },
+    {
+      "title": "LG",
+      "colorTitle": "#B4005D",
+      "colorBgTitle": "#030100",
+      "icon": "https://images.icon-icons.com/2699/PNG/512/lg_logo_icon_171262.png",
+      "iconBgColor": "#ffffff",
+      "offer": "UP to 65% OFF",
+      "offerColor": "#ffffff",
+      "bgColor": "#380603",
+      "productImage": "https://png.pngtree.com/png-vector/20240201/ourmid/pngtree-long-makeup-game-monitor-gaming-scifi-png-image_11530863.png",
+      "circularBGColor": "#D8321F"
+    }
+  ]
+}

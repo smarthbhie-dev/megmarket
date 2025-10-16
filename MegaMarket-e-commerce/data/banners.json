@@ -1,0 +1,76 @@
+ [
+      {
+        "id": 1,
+        "title": "APPLE MACBOOK AIR",
+        "subtitle": "Best Deal Online Mohamed",
+        "offer": "Save 15% Today",
+        "image": "/assets/images/Banner/31kCkwrHF8L._SY1000_-removebg-preview.png"
+      },
+      {
+        "id": 2,
+        "title": "SAMSUNG GALAXY S24",
+        "subtitle": "New Smartphone 2025",
+        "offer": "Up to 20% OFF",
+        "image": "assets/images/Banner/3c9b6c3ef28c4a67992bf97ee7ca5ce4.png"
+      },
+      {
+        "id": 3,
+        "title": "NIKE RUNNING SHOES",
+        "subtitle": "Top Trending Footwear",
+        "offer": "Flat 40% OFF",
+        "image": "assets/images/Banner/69486236687.png"
+      },
+      {
+        "id": 4,
+        "title": "MEN'S CASUAL T-SHIRT",
+        "subtitle": "Comfort & Style",
+        "offer": "Buy 1 Get 1 Free",
+        "image": "assets/images/Banner/ALLIN_1024x1024-removebg-preview.png"
+      },
+      {
+        "id": 5,
+        "title": "DELL INSPIRON LAPTOP",
+        "subtitle": "Work & Play Anywhere",
+        "offer": "Save 25%",
+        "image": "assets/images/Banner/71JoLOlxcpL._UF894_1000_QL80_-removebg-preview.png"
+      },
+      {
+        "id": 6,
+        "title": "APPLE AIRPODS PRO",
+        "subtitle": "Noise Cancellation",
+        "offer": "Special Price $199",
+        "image": "assets/images/Banner/IMG-18063722_m_jpeg_1.webp"
+      },
+      {
+        "id": 7,
+        "title": "ADIDAS SPORTS SHOES",
+        "subtitle": "New Arrival Sneakers",
+        "offer": "30% OFF",
+        "image": "assets/images/Banner/JH7909_11_FOOTWEAR_3D-Rendering_SideLateralLeftView_transparent.webp"
+      },
+      {
+        "id": 8,
+        "title": "SMART WATCH SERIES 9",
+        "subtitle": "Stay Fit & Connected",
+        "offer": "20% OFF Limited Time",
+        "image": "assets/images/Banner/HK9-Pro-Plus-Series-9-Smart-Watch-removebg-preview.png"
+      },
+      {
+        "id": 9,
+        "title": "GAMING LAPTOP ASUS ROG",
+        "subtitle": "Engineered for Gamers",
+        "offer": "Save up to $300",
+        "image": "assets/images/Banner/h732.png"
+      },
+      {
+        "id": 10,
+        "title": "UNISEX HOODIE",
+        "subtitle": "Winter Collection 2025",
+        "offer": "Buy 2 Get 1 Free",
+        "image": "assets/images/Banner/31kCkwrHF8L._SY1000_-removebg-preview.png"
+      }
+      
+   
+    ]
+
+  

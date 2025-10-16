@@ -1,0 +1,207 @@
+/*======Start frequently bought together ======*/
+.bought-together {
+  margin: 30px auto;
+}
+.bought-together .products {
+  margin: 30px 0;
+  display: flex;
+  align-items: flex-start;
+  gap: 5px;
+}
+.bought-together .products .left {
+  width: 300px;
+  height: 545px;
+  padding: 10px;
+  border: 2px solid var(--Gray-2-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-shrink: 0;
+  position: relative;
+}
+.bought-together .products .left .image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50%;
+}
+
+.bought-together .products .left .image img {
+  width: 300px;
+  height: 300px;
+  object-fit: contain;
+}
+.bought-together .products .left .image .ofer {
+  position: absolute;
+  background-color: var(--yellow);
+  top: 10px;
+  left: 10px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.bought-together .products .left .image .hot {
+  background-color: red;
+  padding: 5px;
+  position: absolute;
+  left: 10px;
+  top: 50px;
+}
+.bought-together .products .left .info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.bought-together .products .left .info .rating {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.bought-together .products .left .info .rating i {
+  color: var(--yellow);
+}
+.bought-together .products .left .info p {
+  color: var(--dark-color);
+  opacity: 0.6;
+}
+.bought-together .products .left .info p span {
+  color: var(--blue);
+}
+.bought-together .products .left .info .btns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.bought-together .products .left .info .btns button {
+  padding: 10px 20px;
+  cursor: pointer;
+  border: none;
+  background-color: var(--blue);
+  color: var(--white-color);
+  font-size: 16px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: 0.3s;
+}
+.bought-together .products .left .info .btns button:hover {
+  box-shadow: 0 0 10px var(--blue);
+}
+.bought-together .products .left .info .btns i {
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.bought-together .products .left .info .btns i:hover {
+  transform: scale(1.2);
+  color: var(--orange-color);
+}
+.bought-together .products .right-together-products {
+  display: flex;
+  flex-wrap: wrap;
+  width: calc(100% - 300px);
+  height: 545px;
+  gap: 5px;
+  overflow: hidden;
+}
+.bought-together .products .right-together-products .prodcut-card {
+  width: calc((100% - 15px) / 4);
+  height: 270px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 2px solid var(--text-color);
+  transition: 0.3s;
+  cursor: pointer;
+  position: relative;
+}
+.bought-together .products .right-together-products .prodcut-card:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.23);
+}
+.bought-together .products .right-together-products .prodcut-card img {
+  height: 150px;
+  width: 100%;
+  object-fit: contain;
+}
+.bought-together .products .right-together-products .prodcut-card p {
+  width: 100%;
+  margin: 10px 0;
+}
+.bought-together .products .right-together-products .prodcut-card span {
+  color: var(--blue);
+}
+.bought-together .products .right-together-products .prodcut-card .btns {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  opacity: 0;
+  transform: scale(0.9);
+  transition: all 0.4s ease;
+  pointer-events: none;
+}
+.bought-together .products .right-together-products .prodcut-card .btns i {
+  font-size: 20px;
+  border: 2px solid var(--dark-color);
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.bought-together
+  .products
+  .right-together-products
+  .prodcut-card
+  .btns
+  i:hover {
+  transform: scale(1.1);
+  background-color: var(--yellow);
+  color: var(--white-color);
+  border-color: var(--white-color);
+}
+.bought-together .products .right-together-products .prodcut-card:hover .btns {
+  opacity: 1;
+  transform: scale(1);
+  pointer-events: auto;
+}
+/* ==== Start-Responsive ==== */
+
+/* Tablet */
+@media (min-width: 780px) and (max-width: 991px) {
+  .bought-together .products .right-together-products .prodcut-card {
+    width: calc((100% - 5px) / 2);
+  }
+}
+
+/* Mobile  */
+@media (max-width: 767.98px) {
+  .bought-together .products {
+    flex-direction: column;
+  }
+  .bought-together .products .left{
+    width: 100%;
+  }
+  .bought-together .products .right-together-products {
+    width: 100%;
+  }
+  .bought-together .products .right-together-products .prodcut-card {
+    width: calc((100% - 5px) / 2);
+  }
+}
+/* ==== End-Responsive ==== */
+
+/*======End frequently bought together ======*/

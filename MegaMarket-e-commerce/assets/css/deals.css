@@ -1,0 +1,47 @@
+/*======Start Today’s Deals of the day======*/
+.deals-section {
+  margin: 30px auto;
+  position: relative;
+  height: max-content;
+}
+.deals-section .product-card {
+  margin: 30px 0;
+}
+.deals-section .product-card img {
+  width: 250px;
+  height: 250px;
+  object-fit: contain;
+  padding: 10px;
+}
+.deals-section .product-card {
+  min-width: 350px;
+}
+
+/* ==== Start-Responsive ==== */
+
+/* Tablet */
+@media (min-width: 780px) and (max-width: 991px) {
+  .deals-section .up-sec .right-item button {
+    position: absolute;
+    bottom: -60px;
+    left: 50%;
+    transform: translatex(-50%);
+  }
+}
+
+/* Mobile  */
+@media (max-width: 767.98px) {
+  .deals-section .up-sec .right-item button {
+    position: absolute;
+    bottom: -60px;
+    left: 50%;
+    transform: translatex(-50%);
+  }
+  .deals-section .up-sec ,.deals-section .right-item{
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+}
+/* ==== End-Responsive ==== */
+/*======End Today’s Deals of the day======*/

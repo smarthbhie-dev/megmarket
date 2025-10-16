@@ -1,0 +1,56 @@
+.main-message {
+  position: fixed;
+  width: 100%;
+  background-color: transparent;
+  top: -600px;
+  z-index: 1000;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  opacity: 0;
+  transition: 0.3s;
+}
+.main-message.active {
+  top: 0;
+  opacity: 1;
+}
+.main-message .message-inside {
+  width: 500px;
+  background-color: var(--white-color);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.248);
+  margin-top: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  position: relative;
+  padding: 10px;
+  gap: 10px;
+}
+.main-message .message-inside .lottie-wrapper {
+  display: inline-flex;         
+  align-items: center;          
+  justify-content: center;      
+  width: 200px;                
+  height: 80px;
+}
+.main-message .message-inside .lottie-icon {
+  width: 100%;                  
+  height: 100%;                 
+  display: block;                       
+  overflow: hidden;
+}
+
+/* ==== Start-Responsive ==== */
+
+/* Tablet */
+@media (min-width: 780px) and (max-width: 991px) {
+}
+/* Mobile  */
+@media (max-width: 767.98px) {
+  .main-message .message-inside {
+    width: 90%;
+    text-align: center;
+  }
+}
+/* ==== End-Responsive ==== */

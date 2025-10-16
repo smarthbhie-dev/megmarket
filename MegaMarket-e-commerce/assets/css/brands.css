@@ -1,0 +1,41 @@
+/*======Start BRANDS======*/
+.brands {
+    display: flex;
+    flex-direction: column;
+  }
+  .brands .title b {
+    font-size: 25px;
+  }
+  .brands .brands-cards {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin: 20px 0;
+    overflow: auto;
+    scrollbar-width: none;
+    padding: 10px 5px;
+  }
+  .brands .brands-cards::-webkit-scrollbar {
+    display: none;
+  }
+  .brands .brands-cards .card {
+    background-color: var(--Gray-2-color);
+    width: max-content;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  .brands .brands-cards .card:hover {
+    box-shadow: 0 0 10px var(--yellow);
+  }
+  .brands .brands-cards .card img {
+    width: 100px;
+    height: 50px;
+    object-fit: contain;
+  }
+  /*======End BRANDS======*/

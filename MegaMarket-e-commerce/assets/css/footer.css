@@ -1,0 +1,113 @@
+footer {
+  background-color: var(--bg-dark-color);
+}
+footer .footer-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 50px 0;
+}
+footer .footer-content b {
+  color: var(--white-color);
+  font-size: 20px;
+}
+footer .footer-content p {
+  color: var(--Gray-2-color);
+  opacity: 0.7;
+}
+footer .footer-content b span {
+  color: var(--orange-color);
+}
+footer .footer-content section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+footer .footer-content section a:not(section .btns-tag a)  {
+  color: var(--Gray-2-color);
+  opacity: 0.7;
+  text-decoration: none;
+  position: relative;
+  transition: 0.5s;
+}
+footer .footer-content section a:not( .btn-link )::after  {
+  position: absolute;
+  content: '';
+  left: -30%;
+  top: 50%;
+  transform: translate(0,-50%);
+  z-index: -1;
+  height: 3px;
+  width: 0;
+  background-color: #EBC80C;
+  transition: 0.3s;
+}
+footer .footer-content section a:hover:not(section .btns-tag a) {
+  color: var(--white-color);
+  opacity: 1;
+  transform: translateX(10px);
+}
+footer .footer-content section a:hover::after{
+  width: 30%;
+}
+footer .footer-content section img{
+cursor: pointer;
+transition: 0.3s;
+}
+footer .footer-content section img:hover{
+  transform: scale(1.1);
+}
+footer .footer-content section .btns-tag{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 300px;
+}
+footer .footer-content section .btns-tag a{
+  border: 1px solid var(--Gray-2-color);
+  padding: 5px 10px ;
+  display: block;
+  color: var(--Gray-2-color);
+  opacity: 0.7;
+  text-decoration: none;
+  transition: 0.3s;
+}
+footer .footer-content section .btns-tag a:hover{
+  transform: scale(1.1);
+  color: var(--white-color);
+  opacity: 1;
+}
+  /* ==== Start-Responsive ==== */
+  
+  /* Tablet */
+  @media (min-width: 780px) and (max-width: 991px) {
+    footer .footer-content {
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    footer .footer-content section{
+      text-align: center;
+    }
+    footer .footer-content section .btns-tag{
+      width: 100%;
+      justify-content: center;
+    }
+
+  }
+  /* Mobile  */
+  @media (max-width: 767.98px) {
+    footer .footer-content{
+      flex-direction: column;
+      gap: 10px;
+    }
+    footer .footer-content section{
+      width: 100%;
+      align-items: center;
+    }
+    footer .footer-content section .btns-tag{
+      width: 100%;
+      justify-content: center;
+    }
+
+  }
+  /* ==== End-Responsive ==== */

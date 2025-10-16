@@ -1,0 +1,124 @@
+[
+    {
+      "title": "Groceries",
+      "items": [
+        "Computer & Laptop",
+        "Computer Accessories",
+        "SmartPhone",
+        "Headphone",
+        "Mobile Accessories",
+        "Gaming Console",
+        "Camera & Photo",
+        "TV & Homes Appliances",
+        "Watchs & Accessories",
+        "GPS & Navigation",
+        "Wearable Technology"
+      ]
+    },
+    {
+      "title": "Premium Fruits",
+      "items": [
+        "Mangoes",
+        "Strawberries",
+        "Blueberries",
+        "Cherries",
+        "Pineapple",
+        "Dragon Fruit",
+        "Papaya",
+        "Grapes",
+        "Watermelon",
+        "Apples"
+      ]
+    },
+    {
+      "title": "Home & Kitchen",
+      "items": [
+        "Cookware Sets",
+        "Kitchen Appliances",
+        "Dinnerware & Cutlery",
+        "Storage & Organization",
+        "Home Decor",
+        "Bedding & Linens",
+        "Cleaning Supplies",
+        "Furniture",
+        "Lighting & Lamps",
+        "Bathroom Accessories"
+      ]
+    },
+    {
+      "title": "Fashion",
+      "items": [
+        "Men's Clothing",
+        "Women's Clothing",
+        "Kids' Clothing",
+        "Footwear",
+        "Bags & Wallets",
+        "Jewelry & Watches",
+        "Sunglasses & Accessories",
+        "Hats & Caps",
+        "Sportswear",
+        "Seasonal Fashion"
+      ]
+    },
+    {
+      "title": "Electronics",
+      "items": [
+        "Computers & Laptops",
+        "Computer Accessories",
+        "Smartphones",
+        "Headphones & Earbuds",
+        "Cameras & Photography",
+        "Televisions & Home Theater",
+        "Gaming Consoles",
+        "Smart Home Devices",
+        "Wearable Technology",
+        "GPS & Navigation"
+      ]
+    },
+    {
+      "title": "Beauty",
+      "items": [
+        "Skincare",
+        "Makeup",
+        "Hair Care",
+        "Fragrances",
+        "Nail Care",
+        "Beauty Tools",
+        "Men's Grooming",
+        "Bath & Body",
+        "Sun Care",
+        "Personal Care"
+      ]
+    },
+    {
+      "title": "Home Improvement",
+      "items": [
+        "Tools & Hardware",
+        "Lighting & Electrical",
+        "Plumbing Supplies",
+        "Paint & Wall Decor",
+        "Flooring & Tiles",
+        "Garden & Outdoor",
+        "Storage & Organization",
+        "Home Safety",
+        "Appliance Repair",
+        "DIY Materials"
+      ]
+    },
+    {
+      "title": "Sports, Toys & Luggage",
+      "items": [
+        "Sports Equipment",
+        "Fitness & Exercise",
+        "Outdoor Recreation",
+        "Toys & Games",
+        "Board Games & Puzzles",
+        "Bicycles & Scooters",
+        "Camping & Hiking",
+        "Travel Bags & Luggage",
+        "Kids' Sports",
+        "Water Sports"
+      ]
+    }
+  ]
+  

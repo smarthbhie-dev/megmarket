@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mega Market | Product Details</title>
+
+    <!-- Main global styles -->
+    <link rel="stylesheet" href="../assets/css/style.css" />
+    <!-- Product details page styles -->
+    <link rel="stylesheet" href="../assets/css/product-details.css" />
+    <!-- Navbar styles -->
+    <link rel="stylesheet" href="../assets/css/navbar.css" />
+    <!-- Footer styles -->
+    <link rel="stylesheet" href="../assets/css/footer.css" />
+    <!-- Product card styles -->
+    <link rel="stylesheet" href="../assets/css/productCard.css" />
+    <!-- Message and notification styles -->
+    <link rel="stylesheet" href="../assets/css/message.css" />
+    <!-- Technical support styles -->
+    <link rel="stylesheet" href="../assets/css/technical-support.css" />
+
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    />
+
+    <!-- Animate.css -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+  </head>
+
+  <body>
+    <!--Start Large Image Popup Section-->
+    <div class="show-large-img animate__animated">
+      <div class="inside">
+        <div class="close-btn-large-image">
+          <i class="fa-solid fa-circle-xmark"></i>
+        </div>
+        <img id="LargeImage" src="" alt="" />
+      </div>
+    </div>
+    <!--End Large Image Popup Section-->
+    <main
+      class="product-details animate__animated animate__fadeInDown container"
+    >
+      <div class="product-data">
+        <div class="left-sec">
+          <div class="main-image">
+            <img class="animate__animated" id="productImage" src="" alt="" />
+          </div>
+          <div class="list-image"></div>
+        </div>
+
+        <div class="right-sec">
+          <b id="title"></b>
+          <div class="rating"></div>
+          <p id="description"></p>
+          <div class="price">
+            <b id="productPrice"></b>
+            <span id="old-price"></span>
+            <div class="offer" id="productDiscount"></div>
+          </div>
+          <hr />
+          <div class="get-product">
+            <div class="quantity-control">
+              <i class="fa-solid fa-minus"></i>
+              <p id="quantity">1</p>
+              <i class="fa-solid fa-plus"></i>
+            </div>
+            <button class="solid-btn">
+              <i class="fa-solid fa-dolly"></i> Buy Now
+            </button>
+            <button class="solid-btn" id="add-to-cart">
+              <i class="fa-solid fa-cart-arrow-down"></i>ADD
+            </button>
+            <div class="hert" id="add-to-wishlist">
+              <i class="fa-regular fa-heart"></i>
+            </div>
+          </div>
+
+          <div class="product-services">
+            <div class="item">
+              <i class="fa-solid fa-truck"></i>
+              <p>
+                <b>Free Delivery</b> <br />
+                <a href="#">Enter your postal code for Delivery Availability</a>
+              </p>
+            </div>
+            <hr />
+            <div class="item">
+              <i class="fa-solid fa-arrow-rotate-left"></i>
+              <p>
+                <b>Return Delivery</b> <br />
+                <a href="#">Free 30 Days Delivery Returns. Details</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <section class="related-items-sec">
+        <div class="title-sec">
+          <b>Related Item</b>
+        </div>
+        <div class="related-items"></div>
+      </section>
+    </main>
+
+    <!-- Loader -->
+    <div class="loader" id="loader">
+      <dotlottie-wc
+        src="https://lottie.host/245dc6cc-177b-4d95-a77c-252c0e6333be/UKV4IzhyTb.lottie"
+        style="width: 300px; height: 300px"
+        autoplay
+        loop
+      ></dotlottie-wc>
+    </div>
+
+    <footer id="footer"></footer>
+
+    <!-- Lottie Animation -->
+    <script
+      src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js"
+      type="module"
+    ></script>
+
+    <!-- Message and notification script -->
+    <script type="module" src="../assets/js/message.js"></script>
+    <!-- Product details script -->
+    <script type="module" src="../assets/js/product-details.js"></script>
+    <!-- Product details script -->
+    <script type="module" src="../assets/js/navbar.js"></script>
+    <!-- Footer script -->
+    <script type="module" src="../assets/js/footer.js"></script>
+    <!-- Technical support script -->
+    <script type="module" src="../assets/js/technicalSupport.js"></script>
+  </body>
+</html>

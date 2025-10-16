@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mega Market | Cart</title>
+    <!--  Main Stylesheets -->
+    <link rel="stylesheet" href="../assets/css/style.css" />
+    <!-- Navbar styles -->
+    <link rel="stylesheet" href="../assets/css/navbar.css" />
+    <!-- Footer styles -->
+    <link rel="stylesheet" href="../assets/css/footer.css" />
+    <!--Cart style-->
+    <link rel="stylesheet" href="../assets/css/cart.css" />
+    <!--message style-->
+    <link rel="stylesheet" href="../assets/css/message.css" />
+    <!--technical support style-->
+    <link rel="stylesheet" href="../assets/css/technical-support.css" />
+    <!--  Font Awesome  -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    />
+
+    <!--  Animate.css Library -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+  </head>
+  <body>
+    <main class="container cart-page animate__animated animate__fadeInDown">
+      <b>My <span>Cart</span></b>
+      <p>Start exploring products and add your favorites to get started!</p>
+
+      <div class="products">
+        <!--Products List-->
+        <div class="products-list"></div>
+        <!--Products list-->
+        <div class="order-summary">
+          <b>Order Summary</b>
+          <p id="cart-total">Price <span>$</span></p>
+          <p>Shipping <span>0</span></p>
+          <p>Tax <span>0</span></p>
+          <p>Discount price <span>0</span></p>
+          <p>
+            <span
+              ><i class="fa-solid fa-square-check"></i>Pack in a Gift Box</span
+            ><span>0</span>
+          </p>
+          <hr />
+          <p id="cart-summary">Total Price <span>$</span></p>
+          <div class="btn">
+            <button><i class="fa-solid fa-dolly"></i> Shop now</button>
+          </div>
+        </div>
+      </div>
+    </main>
+    <!--WOW.js Animation Script -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <script>
+      new WOW().init();
+    </script>
+    <!-- Lottie Animation Player -->
+    <script
+      src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js"
+      type="module"
+    ></script>
+    <!--Navbar Script -->
+    <script type="module" src="../assets/js/navbar.js"></script>
+    <!--Cart Script -->
+    <script type="module" src="../assets/js/Cart.js"></script>
+    <!--technicalSupport script-->
+    <script type="module" src="../assets/js/technicalSupport.js"></script>
+    <!--Footer Script -->
+    <script type="module" src="../assets/js/footer.js"></script>
+  </body>
+</html>

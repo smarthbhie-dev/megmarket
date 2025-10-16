@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mega Market | Market place</title>
+    <!--  Main Stylesheets -->
+    <link rel="stylesheet" href="../assets/css/style.css" />
+    <!--marketPlace styles-->
+    <link rel="stylesheet" href="../assets/css/marketPlace.css" />
+    <!-- Navbar styles -->
+    <link rel="stylesheet" href="../assets/css/navbar.css" />
+    <!-- Footer styles -->
+    <link rel="stylesheet" href="../assets/css/footer.css" />
+    <!-- productCard styles -->
+    <link rel="stylesheet" href="../assets/css/productCard.css" />
+    <!--message style-->
+    <link rel="stylesheet" href="../assets/css/message.css" />
+    <!--technical support style-->
+    <link rel="stylesheet" href="../assets/css/technical-support.css" />
+    <!--  Font Awesome  -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    />
+    <!--  Animate.css Library -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+  </head>
+  <body>
+    <div class="marketPlace container animate__animated animate__fadeInDown">
+      <button class="mobile-filter-toggle" id="filterToggleBtn">
+        <b><i class="fa-solid fa-sliders"></i> filter</b>
+        <i class="fa-solid fa-caret-down"></i>
+      </button>
+
+      <aside class="filters-section animate__animated">
+        <!-- SIZE -->
+        <div class="filter-item">
+          <div class="drop-menu">
+            <b>Size</b>
+            <i class="fa-solid fa-plus"></i>
+          </div>
+          <div class="drop-content">
+            <label><input type="checkbox" /> XS</label>
+            <label><input type="checkbox" /> S</label>
+            <label><input type="checkbox" /> M</label>
+            <label><input type="checkbox" /> L</label>
+            <label><input type="checkbox" /> XL</label>
+          </div>
+        </div>
+
+        <!-- BRAND -->
+        <div class="filter-item">
+          <div class="drop-menu">
+            <b>Brand</b>
+            <i class="fa-solid fa-plus"></i>
+          </div>
+          <div class="drop-content">
+            <label><input type="checkbox" /> Nike</label>
+            <label><input type="checkbox" /> Adidas</label>
+            <label><input type="checkbox" /> Puma</label>
+            <label><input type="checkbox" /> Zara</label>
+            <label><input type="checkbox" /> H&M</label>
+          </div>
+        </div>
+
+        <!-- PRICE -->
+        <div class="filter-item">
+          <div class="drop-menu">
+            <b>Price Range</b>
+            <i class="fa-solid fa-plus"></i>
+          </div>
+          <div class="drop-content">
+            <label><input type="checkbox" /> Under $50</label>
+            <label><input type="checkbox" /> $50 - $100</label>
+            <label><input type="checkbox" /> $100 - $200</label>
+            <label><input type="checkbox" /> Above $200</label>
+          </div>
+        </div>
+
+        <!-- DISCOUNT -->
+        <div class="filter-item">
+          <div class="drop-menu">
+            <b>Discount</b>
+            <i class="fa-solid fa-plus"></i>
+          </div>
+          <div class="drop-content">
+            <label><input type="checkbox" /> 10% off</label>
+            <label><input type="checkbox" /> 25% off</label>
+            <label><input type="checkbox" /> 50% off</label>
+            <label><input type="checkbox" /> 70% off</label>
+          </div>
+        </div>
+
+        <!-- AVAILABILITY -->
+        <div class="filter-item">
+          <div class="drop-menu">
+            <b>Availability</b>
+            <i class="fa-solid fa-plus"></i>
+          </div>
+          <div class="drop-content">
+            <label><input type="checkbox" /> In Stock</label>
+            <label><input type="checkbox" /> Out of Stock</label>
+            <label><input type="checkbox" /> Pre-order</label>
+          </div>
+        </div>
+
+        <!-- CATEGORY -->
+        <div class="filter-item">
+          <div class="drop-menu">
+            <b>Category</b>
+            <i class="fa-solid fa-plus"></i>
+          </div>
+          <div class="drop-content">
+            <label><input type="checkbox" /> Electronics</label>
+            <label><input type="checkbox" /> Clothing</label>
+            <label><input type="checkbox" /> Home & Garden</label>
+            <label><input type="checkbox" /> Sports</label>
+            <label><input type="checkbox" /> Beauty</label>
+          </div>
+        </div>
+
+        <!-- COLOR -->
+        <div class="filter-item">
+          <div class="drop-menu">
+            <b>Color</b>
+            <i class="fa-solid fa-plus"></i>
+          </div>
+          <div class="drop-content color-options">
+            <label
+              ><input type="checkbox" /><span
+                class="color-box"
+                style="background: red"
+              ></span>
+              Red</label
+            >
+            <label
+              ><input type="checkbox" /><span
+                class="color-box"
+                style="background: blue"
+              ></span>
+              Blue</label
+            >
+            <label
+              ><input type="checkbox" /><span
+                class="color-box"
+                style="background: green"
+              ></span>
+              Green</label
+            >
+            <label
+              ><input type="checkbox" /><span
+                class="color-box"
+                style="background: black"
+              ></span>
+              Black</label
+            >
+            <label
+              ><input type="checkbox" /><span
+                class="color-box"
+                style="background: gray"
+              ></span>
+              Gray</label
+            >
+          </div>
+        </div>
+
+        <!-- MATERIAL -->
+        <div class="filter-item">
+          <div class="drop-menu">
+            <b>Material</b>
+            <i class="fa-solid fa-plus"></i>
+          </div>
+          <div class="drop-content">
+            <label><input type="checkbox" /> Cotton</label>
+            <label><input type="checkbox" /> Leather</label>
+            <label><input type="checkbox" /> Polyester</label>
+            <label><input type="checkbox" /> Wood</label>
+          </div>
+        </div>
+
+        <!-- TYPE -->
+        <div class="filter-item">
+          <div class="drop-menu">
+            <b>Type</b>
+            <i class="fa-solid fa-plus"></i>
+          </div>
+          <div class="drop-content">
+            <label><input type="checkbox" /> New Arrival</label>
+            <label><input type="checkbox" /> Featured</label>
+            <label><input type="checkbox" /> Best Seller</label>
+            <label><input type="checkbox" /> Limited Edition</label>
+          </div>
+        </div>
+      </aside>
+
+      <main class="products-section animate__animated animate__fadeInDown">
+        <div class="loader" id="loader">
+          <dotlottie-wc
+            src="https://lottie.host/245dc6cc-177b-4d95-a77c-252c0e6333be/UKV4IzhyTb.lottie"
+            style="width: 300px; height: 300px"
+            autoplay
+            loop
+          ></dotlottie-wc>
+        </div>
+      </main>
+    </div>
+    <div class="box-pagination"><div class="pagination"></div></div>
+    <script
+      src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js"
+      type="module"
+    ></script>
+
+    <!--Navbar Script -->
+    <script type="module" src="../assets/js/navbar.js"></script>
+    <!--message Script-->
+    <script type="module" src="../assets/js/message.js"></script>
+    <!--marketPlace Script -->
+    <script type="module" src="../assets/js/marketPlace.js"></script>
+    <!--technicalSupport script-->
+    <script type="module" src="../assets/js/technicalSupport.js"></script>
+    <!--Footer Script -->
+    <script type="module" src="../assets/js/footer.js"></script>
+  </body>
+</html>

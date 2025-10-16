@@ -1,0 +1,728 @@
+[
+  {
+    "id": 1,
+    "title": "ADIDAS 4DFWD X PARLEY RUNNING SHOES",
+    "description": "The ADIDAS 4DFWD X PARLEY running shoes feature cutting-edge 4D cushioning, eco-friendly Parley materials, and a forward-moving design, providing unmatched comfort, sustainability, and high performance for dedicated runners",
+    "price": 1025,
+    "oldPrice": 1350,
+    "discount": "24",
+    "rating": 1.7,
+    "isFlashDeal": true,
+    "flashTime": 6,
+    "mainImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F01%2F4dfwd-x-parley-running-shoes-gv9056-gx9806-release-info-008.jpg?q=75&w=800&cbr=1&fit=max",
+    "gallery": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbWSGe8kuBVZKS8nVU6y0RgGLHZ0bn2TtNQGMuEDFNn_3onuxQ8Xhv0UpIGnOV4XeHGM&usqp=CAU",
+      "https://i.ebayimg.com/images/g/~6AAAeSwOJRosH6c/s-l400.png",
+      "https://i.ebayimg.com/images/g/-vgAAeSwTgxosH6c/s-l1200.png",
+      "https://i.ebayimg.com/images/g/~7MAAOSwhDRmYGZ8/s-l400.png"
+    ],
+    "new": true,
+    "category": "Shoes"
+  },
+
+  {
+    "id": 2,
+    "title": "Nike Air Max 270",
+    "description": "The Nike Air Max 270 features a large Air unit for ultimate cushioning, lightweight breathable materials, sleek modern design, and exceptional comfort, style, and performance for everyday running and active lifestyles",
+    "price": 250,
+    "oldPrice": 320,
+    "discount": "22%",
+    "rating": 4.5,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://static.nike.com/a/images/t_default/s6dp2gck3oukxj9csz5y/AIR+MAX+270.png",
+    "gallery": [
+      "https://neu.basketballemotion.com/imagesarticulos/157250/750/zapatilla-nike-w-air-max-270-blackanthracite-white-negro-0.jpg",
+      "https://www.laces.mx/cdn/shop/files/DZ7736-002_1.jpg?v=1754878104&width=1024",
+      "https://thumblr.uniid.it/product/193406/13652db112c3.jpg?width=3840&format=webp&q=75",
+      "https://i.ebayimg.com/images/g/sskAAOSwINxniO2e/s-l1200.jpg"
+    ],
+    "new": true,
+    "category": "Shoes"
+  },
+  {
+    "id": 3,
+    "title": "Puma RS-X Reinvent",
+    "description": "Puma RS-X Reinvent combines bold, futuristic design with cushioned comfort, durable materials, and vibrant colorways, delivering standout style, all-day support, and high performance for fashion-forward sneaker enthusiasts",
+    "price": 180,
+    "oldPrice": 220,
+    "discount": "18%",
+    "rating": 4.3,
+    "isFlashDeal": true,
+    "flashTime": 12,
+    "mainImage": "https://cdn.shopify.com/s/files/1/0603/3031/1875/files/2_3b3a1143-8ada-42d2-976f-97b650b487a8_540x.jpg?=75&v=1708351858",
+    "gallery": [
+      "https://www.thenextsole.com/storage/images/371008-02.png",
+      "https://m.media-amazon.com/images/I/51LU+e6SRnL._UY900_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMw9Hni6HYmz_fTWP3kFz-ZWY8c7hhri5WXrthy8sa3i4rUbAeN3SHLOUQXS4oae52mPo&usqp=CAU",
+      "https://cdn.shopify.com/s/files/1/0603/3031/1875/files/main-square_1b211cd6-dac4-49ab-8ea4-be0754b6f864.jpg?v=1706526416"
+    ],
+    "new": false,
+    "category": "Shoes"
+  },
+  {
+    "id": 4,
+    "title": "Reebok Nano X3",
+    "description": "Reebok Nano X3 offers exceptional stability, responsive cushioning, and durable construction, combining innovative design with breathable materials to deliver superior performance, comfort, and support for cross-training and intense workouts",
+    "price": 150,
+    "oldPrice": 200,
+    "discount": "25%",
+    "rating": 4.2,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://shop.sportsbasement.com/cdn/shop/products/100254943_BGL_2_1024x1024@2x.png?v=1689115362",
+    "gallery": [
+      "https://i1.t4s.cz//products/hp6041/reebok-nano-x3-556292-hp6041-960.jpg",
+      "https://sports4.com/cdn/shop/files/9021041_BlackGrey_3.png?v=1722890050&width=1946",
+      "https://www.rebelsport.com.au/dw/image/v2/BBRV_PRD/on/demandware.static/-/Sites-srg-internal-master-catalog/default/dw2d76494d/images/70654601/Rebel_70654601_blackgum_hi-res.jpg?sw=1000&sh=1000&sm=fit&q=80"
+    ],
+    "new": true,
+    "category": "Shoes"
+  },
+  {
+    "id": 5,
+    "title": "iPhone 15 Pro Max",
+    "description": "The iPhone 15 Pro Max features a stunning display, powerful A17 chip, advanced camera system, and sleek design, offering unmatched performance, durability, and innovative technology for modern users",
+    "price": 1399,
+    "oldPrice": 1599,
+    "discount": "12%",
+    "rating": 4.9,
+    "isFlashDeal": true,
+    "flashTime": 4,
+    "mainImage": "https://m.media-amazon.com/images/I/61rriyfRKwL._AC_SX679_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61rriyfRKwL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51UqcTOkGIL._AC_SY679_.jpg",
+      "https://m.media-amazon.com/images/I/61buA0PubsL._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Smartphone"
+  },
+  {
+    "id": 6,
+    "title": "Samsung Galaxy S24 Ultra",
+    "description": "The Samsung Galaxy S24 Ultra delivers an expansive display, powerful processor, versatile camera system, and long-lasting battery, providing exceptional performance, cutting-edge technology, and premium design for modern smartphone users",
+    "price": 1200,
+    "oldPrice": 1450,
+    "discount": "17%",
+    "rating": 4.8,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://static.vecteezy.com/system/resources/previews/041/329/788/non_2x/samsung-galaxy-s24-ultra-titanium-blue-back-view-free-png.png",
+    "gallery": [
+      "https://www.phonemart.ng/wp-content/uploads/2024/06/s24u-gr-4.jpeg",
+      "https://mtsmart.vn/uploads/landingpage/s24u-1000x500-1-2401170704.jpg",
+      "https://i0.wp.com/www.elavocatomobile.net/wp-content/uploads/2024/12/gdtp3rx_c53ygzks4msgdmys.webp?fit=368%2C294&ssl=1",
+      "https://z.nooncdn.com/products/tr:n-t_400/pnsku/N70036947V/45/_/1705580048/ecdd88b8-8e28-4758-9a1e-deb3e6507f0e.jpg",
+      "https://i.ebayimg.com/images/g/KyYAAOSw7OZmJkKQ/s-l1200.jpg"
+    ],
+    "new": true,
+    "category": "Smartphone"
+  },
+  {
+    "id": 7,
+    "title": "Xiaomi Mi 14",
+    "description": "Xiaomi Mi 14 features a sleek design, vibrant display, powerful processor, advanced camera system, and long-lasting battery, delivering excellent performance, cutting-edge technology, and reliable daily smartphone experience",
+    "price": 800,
+    "oldPrice": 950,
+    "discount": "16%",
+    "rating": 4.6,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://smartkoshk.com/cdn/shop/files/Mi-14T-Pro-2.png?v=1740495876",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61lq7--sZ1L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61PvTnnIAoL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/6160mD4TkML._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51rEmtyajlL._AC_SX679_.jpg",
+      "https://smartkoshk.com/cdn/shop/files/Mi-14T-Pro-2.png?v=1740495876"
+    ],
+    "new": false,
+    "category": "Smartphone"
+  },
+  {
+    "id": 8,
+    "title": "Google Pixel 8 Pro",
+    "description": "The Google Pixel 8 Pro offers a stunning display, powerful processor, advanced AI camera features, and smooth performance, providing cutting-edge technology, exceptional photography, and seamless daily smartphone experience.",
+    "price": 1100,
+    "oldPrice": 1250,
+    "discount": "12%",
+    "rating": 4.7,
+    "isFlashDeal": true,
+    "flashTime": 8,
+    "mainImage": "https://m.media-amazon.com/images/I/61RjJ0MDPbL._AC_SX679_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61RjJ0MDPbL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51BbEk4YCSL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/41rcpq2jCaL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51xDI9EAB-L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/5145oAoelVL._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Smartphone"
+  },
+  {
+    "id": 9,
+    "title": "Apple Watch Series 9",
+    "description": "The Apple Watch Series 9 combines advanced health tracking, powerful performance, sleek design, and seamless connectivity, providing users with fitness insights, convenience, and innovative smartwatch features every day",
+    "price": 450,
+    "oldPrice": 550,
+    "discount": "18%",
+    "rating": 4.9,
+    "isFlashDeal": true,
+    "flashTime": 2,
+    "mainImage": "https://m.media-amazon.com/images/I/71IiLY5ld0L._AC_SX679_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/71IiLY5ld0L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71fQZq0-O8L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/718r0-UuziL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61K-pWEwHVL._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Smartwatch"
+  },
+  {
+    "id": 10,
+    "title": "Samsung Galaxy Watch 6",
+    "description": "The Samsung Galaxy Watch 6 features a sleek design, advanced health tracking, long-lasting battery, and seamless connectivity, delivering fitness insights, convenience, and premium smartwatch performance for everyday users",
+    "price": 350,
+    "oldPrice": 420,
+    "discount": "16%",
+    "rating": 4.5,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://images.samsung.com/is/image/samsung/p6pim/eg/sm-r960nzkhmea/gallery/eg-galaxy-watch6-classic-r965-474072-sm-r960nzkhmea-538059558?$684_547_PNG$",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61od6nagOqL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/41FNG6VylSL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/410DZrvO2CL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51hmQUmHkyL._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Smartwatch"
+  },
+  {
+    "id": 11,
+    "title": "Fitbit Versa 4",
+    "description": "The Fitbit Versa 4 combines lightweight design, advanced fitness tracking, heart rate monitoring, and sleep analysis, providing users with comprehensive health insights, convenience, and everyday wearable comfort",
+    "price": 220,
+    "oldPrice": 270,
+    "discount": "18%",
+    "rating": 4.4,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://expertlaois.ie/wp-content/uploads/2022/10/fitbit-versa-4-pink.png",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/618XT1RvyFL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/71BLWMFesZL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/71AQYr8FBjL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/71XbEskULhL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/61a+QqdqxBL._AC_SX522_.jpg"
+    ],
+    "new": false,
+    "category": "Smartwatch"
+  },
+  {
+    "id": 12,
+    "title": "Huawei Watch GT 4",
+    "description": "The Huawei Watch GT 4 offers a stylish design, comprehensive health tracking, long-lasting battery, and seamless connectivity, providing accurate fitness insights, convenience, and reliable performance for everyday smartwatch users",
+    "price": 280,
+    "oldPrice": 330,
+    "discount": "15%",
+    "rating": 4.5,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://m.media-amazon.com/images/I/71u9PXWPzFL._AC_SX679_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/71u9PXWPzFL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71rB0QporuL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61f6Mu7NxGL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61-5vx3ERhL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/7130MiX2VJL._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Smartwatch"
+  },
+  {
+    "id": 13,
+    "title": "Dell XPS 15",
+    "description": "The Dell XPS 15 combines a stunning display, powerful processor, high-performance graphics, and sleek design, delivering exceptional performance, productivity, and premium computing experience for professionals and creators",
+    "price": 2200,
+    "oldPrice": 2500,
+    "discount": "12%",
+    "rating": 4.7,
+    "isFlashDeal": true,
+    "flashTime": 10,
+    "mainImage": "https://m.media-amazon.com/images/I/618boHspPnL._AC_SX679_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/618boHspPnL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71-8QiYufkL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81qQYHjF0LL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51ewxNTTKPL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/81JSZ9nG6nL._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Laptop"
+  },
+  {
+    "id": 14,
+    "title": "MacBook Air M3",
+    "description": "The MacBook Air M3 features a sleek, lightweight design, powerful M3 chip, vibrant display, and long-lasting battery, delivering exceptional performance, portability, and efficiency for students and professionals alike",
+    "price": 1400,
+    "oldPrice": 1600,
+    "discount": "13%",
+    "rating": 4.8,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://m.media-amazon.com/images/I/712dp0yAydL._AC_SX679_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/712dp0yAydL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71CJ4ZJQ6oL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61wJeelYVaL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71PUaDG0-FL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61dHNAMoiFL._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Laptop"
+  },
+  {
+    "id": 15,
+    "title": "HP Spectre x360",
+    "description": "The HP Spectre x360 offers a versatile 2-in-1 design, powerful performance, vibrant display, and long battery life, providing premium computing, productivity, and flexibility for professionals and creatives",
+    "price": 1600,
+    "oldPrice": 1800,
+    "discount": "11%",
+    "rating": 4.6,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://m.media-amazon.com/images/I/61GTJ0xfdRL._AC_SX300_SY300_QL70_ML2_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61GTJ0xfdRL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "https://m.media-amazon.com/images/I/61uHZoTKXfL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51f+wvAc0FL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51LXGPgWqLL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/410-t354YsL._AC_SX679_.jpg"
+    ],
+    "new": false,
+    "category": "Laptop"
+  },
+  {
+    "id": 16,
+    "title": "Asus ROG Zephyrus G16",
+    "description": "The Asus ROG Zephyrus G16 delivers powerful performance, high-refresh gaming display, advanced cooling system, and sleek design, providing gamers and creators with exceptional speed, visuals, and immersive experiences.",
+    "price": 2000,
+    "oldPrice": 2300,
+    "discount": "13%",
+    "rating": 4.7,
+    "isFlashDeal": true,
+    "flashTime": 5,
+    "mainImage": "https://m.media-amazon.com/images/I/71h3h8PipAL._AC_SX300_SY300_QL70_ML2_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/71h3h8PipAL._AC_SX300_SY300_QL70_ML2_.jpg",
+      "https://m.media-amazon.com/images/I/71jtvE9c-RL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51GiE0jRELL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/714GMNjVP5L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/7137b7LcMOL._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Laptop"
+  },
+  {
+    "id": 17,
+    "title": "Sony WH-1000XM5",
+    "description": "Sony WH-1000XM5 headphones feature industry-leading noise cancellation, premium sound quality, long battery life, and comfortable design, delivering an immersive listening experience for music lovers and frequent travelers",
+    "price": 400,
+    "oldPrice": 500,
+    "discount": "20%",
+    "rating": 4.9,
+    "isFlashDeal": true,
+    "flashTime": 7,
+    "mainImage": "https://m.media-amazon.com/images/I/51IT0Gj+6ML._AC_SY741_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/51IT0Gj+6ML._AC_SY741_.jpg",
+      "https://m.media-amazon.com/images/I/617Y2eVngtL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/61-aVZ0fdgL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/61y4XHSSM8L._AC_SX522_.jpg"
+    ],
+    "new": true,
+    "category": "Accessories"
+  },
+  {
+    "id": 18,
+    "title": "Apple AirPods Pro 2",
+    "description": "The Apple AirPods Pro 2 offer active noise cancellation, superior sound quality, spatial audio, and all-day comfort, providing an immersive listening experience and seamless connectivity for Apple users",
+    "price": 250,
+    "oldPrice": 300,
+    "discount": "17%",
+    "rating": 4.8,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://png.pngtree.com/png-clipart/20230504/ourmid/pngtree-airpods-png-image_7081756.png",
+    "gallery": [
+      "https://png.pngtree.com/png-clipart/20230504/ourmid/pngtree-airpods-png-image_7081756.png",
+      "https://m.media-amazon.com/images/I/41v3kSKxPlL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "https://m.media-amazon.com/images/I/41Z85F99hNL._AC_SY879_.jpg",
+      "https://m.media-amazon.com/images/I/41sKRsFU3pL._AC_SX522_.jpg"
+    ],
+    "new": true,
+    "category": "Accessories"
+  },
+  {
+    "id": 19,
+    "title": "Logitech MX Master 3S",
+    "description": "Logitech MX Master 3S mouse features ergonomic design, precise tracking, customizable buttons, and silent clicks, delivering exceptional comfort, productivity, and efficiency for professionals and creative users",
+    "price": 120,
+    "oldPrice": 150,
+    "discount": "20%",
+    "rating": 4.7,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://m.media-amazon.com/images/I/619PsOn2iLL._AC_SL1500_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/619PsOn2iLL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uq--6bcwL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71bXnUWxWaL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71Wf5WPf1EL._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Accessories"
+  },
+  {
+    "id": 20,
+    "title": "Anker PowerCore 20000",
+    "description": "The Anker PowerCore 20000 portable charger provides high-capacity battery, fast charging, and compact design, delivering reliable power on-the-go for smartphones, tablets, and other USB-powered devices anytime, anywhere",
+    "price": 60,
+    "oldPrice": 80,
+    "discount": "25%",
+    "rating": 4.6,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://m.media-amazon.com/images/I/610AReLQXZL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/610AReLQXZL._AC_SY300_SX300_QL70_ML2_.jpg",
+      "https://m.media-amazon.com/images/I/61OuUqVGQ8L._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/51F4hQX1YTL._AC_SX522_.jpg"
+    ],
+    "new": true,
+    "category": "Accessories"
+  },
+
+  {
+    "id": 21,
+    "title": "Dyson V15 Detect",
+    "description": "The Dyson V15 Detect cordless vacuum features powerful suction, intelligent sensors, advanced filtration, and versatile attachments, delivering efficient cleaning, precision detection, and exceptional performance for a spotless home",
+    "price": 700,
+    "oldPrice": 850,
+    "discount": "18%",
+    "rating": 4.8,
+    "isFlashDeal": true,
+    "flashTime": 9,
+    "mainImage": "https://m.media-amazon.com/images/I/41bxIIQqqLL.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/31GrBTd5+PL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/31eYMdM5oKL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/41+RuPtsY5L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/41P3mdePWpL._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Home Appliances"
+  },
+  {
+    "id": 22,
+    "title": "Philips Air Fryer XXL",
+    "description": "The Philips Air Fryer XXL offers large-capacity cooking, rapid air technology, and easy-to-use controls, delivering healthier, crispy meals with minimal oil, convenience, and exceptional cooking performance for families.",
+    "price": 300,
+    "oldPrice": 350,
+    "discount": "14%",
+    "rating": 4.7,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://m.media-amazon.com/images/I/81qUdTYhx4L._AC_SY300_SX300_QL70_ML2_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/81qUdTYhx4L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "https://m.media-amazon.com/images/I/818uYDYezHL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71KolFRqctL._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Home Appliances"
+  },
+  {
+    "id": 23,
+    "title": "LG InstaView Refrigerator",
+    "description": "LG InstaView Refrigerator features a sleek design, InstaView door, smart cooling technology, and spacious storage, delivering convenient access, freshness preservation, and energy-efficient performance for modern kitchens",
+    "price": 2500,
+    "oldPrice": 2800,
+    "discount": "11%",
+    "rating": 4.6,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://jum3a.com/cdn/shop/products/GCX-287TNS_img1_800x.jpg?v=1756225588",
+    "gallery": [
+      "https://jum3a.com/cdn/shop/products/GCX-287TNS_img1_800x.jpg?v=1756225588",
+      "https://m.media-amazon.com/images/I/51GhXJyvHrL._AC_.jpg",
+      "https://m.media-amazon.com/images/I/41c8vzDeBxL._AC_.jpg"
+    ],
+    "new": true,
+    "category": "Home Appliances"
+  },
+  {
+    "id": 24,
+    "title": "Samsung QLED 65\" TV",
+    "description": "Samsung QLED 65 TV delivers stunning 4K visuals, vibrant colors, smart features, and immersive sound, providing exceptional entertainment, cinematic experience, and sleek design for any modern living space",
+    "price": 1800,
+    "oldPrice": 2000,
+    "discount": "10%",
+    "rating": 4.8,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://m.media-amazon.com/images/I/61tVhqKdMtL._AC_SX522_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61tVhqKdMtL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/61YMSREt+bL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/61kKMdSDJ2L._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/21lT5tZvM0L._AC_SX522_.jpg"
+    ],
+    "new": true,
+    "category": "Home Appliances"
+  },
+  {
+    "id": 25,
+    "title": "Bose Soundbar 900",
+    "description": "Bose Soundbar 900 features immersive Dolby Atmos sound, sleek design, voice control, and wireless connectivity, delivering premium audio quality, cinematic experience, and seamless integration for home entertainment",
+    "price": 900,
+    "oldPrice": 1100,
+    "discount": "18%",
+    "rating": 4.7,
+    "isFlashDeal": false,
+    "flashTime": null,
+    "mainImage": "https://m.media-amazon.com/images/I/71mq+2EjRfL._AC_SX522_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/71mq+2EjRfL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/71MWUuNQW5L._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/81vxu90zsgL._AC_SX522_.jpg",
+      "https://m.media-amazon.com/images/I/81l0nM-7Z8L._AC_SX522_.jpg"
+    ],
+    "new": true,
+    "category": "Home Appliances"
+  },
+  {
+    "id": 26,
+    "title": "KitchenAid Mixer",
+    "description": "KitchenAid Mixer features durable construction, versatile attachments, and powerful mixing performance, delivering effortless baking, consistent results, and reliable efficiency for home cooks and professional chefs alike",
+    "price": 400,
+    "oldPrice": 480,
+    "discount": "17%",
+    "rating": 4.9,
+    "isFlashDeal": true,
+    "flashTime": 3,
+    "mainImage": "https://m.media-amazon.com/images/I/61tCcVYiNaL._AC_SX679_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61tCcVYiNaL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/618IvoKeBvL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61Lt5cmofdL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61RIo9CCM-L._AC_SX679_.jpg"
+    ],
+    "new": true,
+    "category": "Home Appliances"
+  },
+
+  {
+    "id": 27,
+    "title": "Men's Slim Fit T-Shirt",
+    "description": "This Men's Slim Fit T-Shirt features soft, breathable fabric, tailored fit, and modern design, providing all-day comfort, stylish appearance, and versatile wear for casual or layered outfits",
+    "price": 25,
+    "oldPrice": 35,
+    "discount": "29%",
+    "rating": 4.5,
+    "isFlashDeal": true,
+    "flashTime": 6,
+    "mainImage": "https://m.media-amazon.com/images/I/61BqYV-Y3oL._AC_SX569_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61BqYV-Y3oL._AC_SX569_.jpg",
+      "https://m.media-amazon.com/images/I/51aotMYKTLL._AC_SX569_.jpg",
+      "https://m.media-amazon.com/images/I/816SVRapzyL._AC_SX569_.jpg",
+      "https://m.media-amazon.com/images/I/71u4HOnmeSL._AC_SX569_.jpg"
+    ],
+    "new": true,
+    "category": "Clothes"
+  },
+  {
+    "id": 28,
+    "title": "Women's Casual Dress",
+    "description": "This Women's Casual Dress features soft, breathable fabric, flattering fit, and elegant design, providing all-day comfort, effortless style, and versatile wear suitable for work, outings, or relaxed occasions",
+    "price": 45,
+    "oldPrice": 60,
+    "discount": "25%",
+    "rating": 4.7,
+    "isFlashDeal": false,
+    "flashTime": 10,
+    "mainImage": "https://m.media-amazon.com/images/I/61IKR2ys5GL._AC_SX466_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61IKR2ys5GL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71orH8EouHL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71SyKGZEpOL._AC_SX466_.jpg",
+      "https://m.media-amazon.com/images/I/71DGk22uHrL._AC_SX466_.jpg"
+    ],
+    "new": true,
+    "category": "Clothes"
+  },
+  {
+    "id": 29,
+    "title": "Men's Denim Jeans",
+    "description": "These Men's Denim Jeans feature durable fabric, classic design, and comfortable fit, providing everyday wearability, timeless style, and versatile pairing options for casual, smart-casual, or relaxed outfits",
+    "price": 55,
+    "oldPrice": 70,
+    "discount": "21%",
+    "rating": 4.4,
+    "isFlashDeal": true,
+    "flashTime": 4,
+    "mainImage": "https://m.media-amazon.com/images/I/81jRL279vXL._AC_SY606_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/81jRL279vXL._AC_SY606_.jpg",
+      "https://m.media-amazon.com/images/I/818x2k9H0qL._AC_SY606_.jpg",
+      "https://m.media-amazon.com/images/I/71dqjPs97jL._AC_SY606_.jpg",
+      "https://m.media-amazon.com/images/I/71SvHDItFmL._AC_SY606_.jpg"
+    ],
+    "new": false,
+    "category": "Clothes"
+  },
+  {
+    "id": 30,
+    "title": "Women's Handbag",
+    "description": "This Women's Handbag features premium materials, spacious compartments, and elegant design, providing stylish organization, everyday convenience, and versatile accessory options for casual, professional, or special occasions",
+    "price": 80,
+    "oldPrice": 100,
+    "discount": "20%",
+    "rating": 4.8,
+    "isFlashDeal": false,
+    "flashTime": 12,
+    "mainImage": "https://m.media-amazon.com/images/I/71pjFgB04WL._AC_SY879_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/71pjFgB04WL._AC_SY879_.jpg",
+      "https://m.media-amazon.com/images/I/71wVcbgdfJL._AC_SY741_.jpg",
+      "https://m.media-amazon.com/images/I/61ZPWKsJH+L._AC_SY741_.jpg",
+      "https://m.media-amazon.com/images/I/61tSONtIS-L._AC_SY741_.jpg"
+    ],
+    "new": true,
+    "category": "Accessories"
+  },
+  {
+    "id": 31,
+    "title": "Lipstick Matte Red",
+    "description": "This Matte Red Lipstick delivers rich, long-lasting color, smooth application, and vibrant finish, providing bold, elegant, and smudge-resistant lips for all-day wear and glamorous looks",
+    "price": 15,
+    "oldPrice": 20,
+    "discount": "25%",
+    "rating": 4.6,
+    "isFlashDeal": true,
+    "flashTime": 2,
+    "mainImage": "https://m.media-amazon.com/images/I/61pfs3IhF5L._AC_SY879_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61pfs3IhF5L._AC_SY879_.jpg",
+      "https://m.media-amazon.com/images/I/51v0Co7z9mL._AC_SY879_.jpg",
+      "https://m.media-amazon.com/images/I/419XPA431TL._AC_US40_.jpg",
+      "https://m.media-amazon.com/images/I/21YdEbXwbVL._AC_.jpg"
+    ],
+    "new": true,
+    "category": "Makeup"
+  },
+  {
+    "id": 32,
+    "title": "Foundation Liquid",
+    "description": "This Liquid Foundation offers smooth, even coverage, lightweight feel, and long-lasting wear, providing a flawless, natural-looking complexion while keeping skin comfortable and radiant throughout the day",
+    "price": 30,
+    "oldPrice": 40,
+    "discount": "25%",
+    "rating": 4.7,
+    "isFlashDeal": false,
+    "flashTime": 15,
+    "mainImage": "https://m.media-amazon.com/images/I/61GcrIAARUL._AC_SY879_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61GcrIAARUL._AC_SY879_.jpg",
+      "https://m.media-amazon.com/images/I/61wC5kXgj-L._AC_SY879_.jpg",
+      "https://m.media-amazon.com/images/I/71rLkUAp42L._AC_SY879_.jpg",
+      "https://m.media-amazon.com/images/I/71hjEv4rRaL._AC_SY879_.jpg",
+      "https://m.media-amazon.com/images/I/21SMSIm1S9L._AC_.jpg"
+    ],
+    "new": false,
+    "category": "Makeup"
+  },
+  {
+    "id": 33,
+    "title": "Eyeshadow Palette",
+    "description": "Eyeshadow Palette features a versatile range of vibrant shades, smooth blendable texture, and long-lasting pigmentation, providing endless creative looks, effortless application, and stunning eye makeup for any occasion",
+    "price": 25,
+    "oldPrice": 35,
+    "discount": "29%",
+    "rating": 4.9,
+    "isFlashDeal": true,
+    "flashTime": 7,
+    "mainImage": "https://m.media-amazon.com/images/I/61dkjiHg01L._AC_SL1500_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61dkjiHg01L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61iu-Y3yGPL._AC_SL1500_.jpg"
+    ],
+    "new": true,
+    "category": "Makeup"
+  },
+  {
+    "id": 34,
+    "title": "Men's Sports Shoes",
+    "description": "These Men's Sports Shoes feature lightweight construction, durable materials, and responsive cushioning, providing superior comfort, support, and performance for running, training, or everyday athletic activities",
+    "price": 65,
+    "oldPrice": 90,
+    "discount": "28%",
+    "rating": 4.3,
+    "isFlashDeal": false,
+    "flashTime": 18,
+    "mainImage": "https://m.media-amazon.com/images/I/71XFLSYWfsL._AC_SY625_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/71XFLSYWfsL._AC_SY625_.jpg",
+      "https://m.media-amazon.com/images/I/71-4bfN1zWL._AC_SY625_.jpg",
+      "https://m.media-amazon.com/images/I/71oiN5yMeYL._AC_SY625_.jpg",
+      "https://m.media-amazon.com/images/I/714++4BTa0L._AC_SY625_.jpg"
+    ],
+    "new": true,
+    "category": "Clothes"
+  },
+  {
+    "id": 35,
+    "title": "Perfume Eau de Parfum",
+    "description": "This Eau de Parfum features a captivating blend of notes, long-lasting fragrance, and elegant bottle design, providing a sophisticated, memorable scent that enhances confidence and leaves a lasting impression",
+    "price": 55,
+    "oldPrice": 70,
+    "discount": "21%",
+    "rating": 4.8,
+    "isFlashDeal": true,
+    "flashTime": 5,
+    "mainImage": "https://m.media-amazon.com/images/I/51YWI6CdI+L._AC_SY300_SX300_QL70_ML2_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/51YWI6CdI+L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "https://m.media-amazon.com/images/I/41jrqh1a62L._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51DU--ttTaL._AC_SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61vo8xXDToL._AC_SX679_.jpg"
+    ],
+    "new": false,
+    "category": "Accessories"
+  },
+  {
+    "id": 36,
+    "title": "Mascara Volume Boost",
+    "description": "This Volume Boost Mascara features a rich formula, precision brush, and long-lasting wear, providing dramatic, fuller lashes, enhanced curl, and smudge-resistant definition for a captivating eye look",
+    "price": 20,
+    "oldPrice": 28,
+    "discount": "29%",
+    "rating": 4.5,
+    "isFlashDeal": false,
+    "flashTime": 20,
+    "mainImage": "https://m.media-amazon.com/images/I/61HLmRuVZvL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "gallery": [
+      "https://m.media-amazon.com/images/I/61HLmRuVZvL._AC_SY300_SX300_QL70_ML2_.jpgg",
+      "https://m.media-amazon.com/images/I/61V4U8hRYVL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/314DLnTyliL._AC_.jpg",
+      "https://m.media-amazon.com/images/I/81xNUJVC7cL._AC_SL1500_.jpg"
+    ],
+    "new": true,
+    "category": "Makeup"
+  }
+]

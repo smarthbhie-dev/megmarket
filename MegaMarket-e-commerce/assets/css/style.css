@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  background-color: var(--white-color);
+}
+
+/* ====== Start Reusable Styles ====== */
+/* ====== Container ====== */
+:root {
+  --text-color: #d9d9d9;
+  --dark-color: #000;
+  --orange-color: #fc7901;
+  --Gray-color: #f3f9fb;
+  --white-color: #ffffff;
+  --blue: #0c59b6;
+  --yellow: #f5a914;
+  --Gray-2-color: #e4e7e9;
+  --bg-dark-color: #191c1f;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/*======up-sec======*/
+.up-sec {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.up-sec b {
+  font-size: 25px;
+  text-transform: uppercase;
+}
+.up-sec b span {
+  color: var(--yellow);
+}
+.up-sec .right-item {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.up-sec .right-item .time {
+  background-color: var(--yellow);
+  color: var(--dark-color);
+  font-size: 18px;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+.up-sec .right-item button {
+  padding: 10px 20px;
+  border: none;
+  background-color: var(--yellow);
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.up-sec .right-item button:hover {
+  box-shadow: 0 0 10px var(--yellow);
+  color: var(--white-color);
+}
+
+/* Phones (up to 575px) */
+@media (max-width: 575px) {
+  .container {
+    max-width: 100%;
+    padding: 0 10px;
+  }
+  .up-sec b {
+    font-size: 16px;
+  }
+}
+
+/* Large phones / small tablets (576px – 767px) */
+@media (min-width: 576px) and (max-width: 767px) {
+  .container {
+    max-width: 100%;
+    padding: 0 10px;
+  }
+}
+
+/* Tablets (768px – 991px) */
+@media (min-width: 768px) and (max-width: 991px) {
+  .container {
+    max-width: 95%;
+    padding: 0 10px;
+  }
+}
+
+/* Desktops (992px and above) */
+@media (min-width: 992px) {
+  .container {
+    max-width: 1400px;
+    padding: 0 20px;
+  }
+}
+
+/*====== End Reusable Styles ======*/
